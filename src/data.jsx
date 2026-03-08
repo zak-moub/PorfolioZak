@@ -6,7 +6,7 @@ export const user = {
     fname: 'Zakaria',
     lname: 'MOUBARAK',
     tel: '+33 (6) 95 95 52 94',
-    WhatsAPP:'+235 60 14 41 14',
+    WhatsAPP:'+235 60 14 41 50',
     zangi:'',
     email: 'zakaria.moubarak@univ-lorraine.fr',
     adress: "3 rue Augustin Fresnel 57070 Metz, France",
