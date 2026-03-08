@@ -23,7 +23,7 @@ export const user = {
     description : "Ingénieur Systèmes Electronique Embarquée| Doctorant en Système Electronique à l'université de Lorraine" 
 }
 
-export const speciality = ['Système Embarqué', 'IIoT','(dé)Codage et (dé)modulation', 'communication sans fil', 'Réseaux de systèmes sur puce', 'Modélisation architecture matériel et fonctionnel', 'Développement', 'Machine learning'];
+export const speciality = ['Système Embarqué', 'IIoT','Chaine de transmission Numérique', 'Transmission sans fil', 'FPGA ET SoC', 'Intelligence Artificielle', 'Apprentissage Automatique', 'Developpement des outils informatiques'];
 // Les projets
 export const projects = [
     {
