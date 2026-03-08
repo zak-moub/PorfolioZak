@@ -2,6 +2,7 @@ export const web = {
     year : 2026
 }
 
+// github: "https://github.com/git-clems"
 export const user = {
     fname: 'Zakaria',
     lname: 'MOUBARAK',
@@ -10,9 +11,9 @@ export const user = {
     zangi:'',
     email: 'zakaria.moubarak@univ-lorraine.fr',
     adress: "3 rue Augustin Fresnel 57070 Metz, France",
-    github: "https://github.com/git-clems",
+    github: "https://github.com/zak-moub",
     youtub: "",
-    linkedin: "https://www.linkedin.com/in/c-bamogo",
+    linkedin: "https://www.linkedin.com/in/zakariamoubarak",
     images: ['https://ik.imagekit.io/ceh9diezp/cam-1772981062430.jpg',],
     organization: {
         org1: "Laboratoire de Génie Informatique, de Production et de Maintenance - Université de Lorraine",
@@ -22,7 +23,7 @@ export const user = {
     description : "Ingénieur Systèmes Electronique Embarquée| Doctorant en Système Electronique à l'université de Lorraine" 
 }
 
-export const speciality = ['Système Embarqué', 'IIoT','(dé)Codage et (dé)modulation', 'IA /ML', 'Réseaux de systèmes sur puce', 'DEV', 'ERP', 'Heuristic', 'Reinforcement learning'];
+export const speciality = ['Système Embarqué', 'IIoT','(dé)Codage et (dé)modulation', 'communication sans fil', 'Réseaux de systèmes sur puce', 'Modélisation architecture matériel et fonctionnel', 'Développement', 'Machine learning'];
 // Les projets
 export const projects = [
     {
